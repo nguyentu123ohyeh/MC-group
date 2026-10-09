@@ -11,3 +11,4 @@ All 13 image files used by the site are in `assets/img/`. The updated images hav
 - Confirm MC GROUP legal name, business claims, telephone, and business email.
 - Contact form requires a configured backend or third-party form service to actually deliver messages.
 - AI-generated imagery is illustrative and must not be presented as actual MC GROUP premises, product brands, or owned vineyards.
+
